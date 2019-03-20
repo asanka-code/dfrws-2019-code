@@ -1,0 +1,4 @@
+This is the secret message to be encrypted using AES.
+The message is not very long and not very short as well.
+Let's encrypt it and then decrypt to see whether it works.
+ 

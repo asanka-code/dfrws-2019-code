@@ -1,0 +1,1 @@
+This is the secret message to be encrypted using AES. 
